@@ -1,0 +1,32 @@
+_repo: The-Aboriginal-Population-of-the-San-Joaquin-Valley-California_38770
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Sherburne Friend
+    aliases:
+    - Cook, S. F. (Sherburne Friend)
+    - Cook, Sherburne F.
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '36639'
+    url: http://www.gutenberg.org/2009/agents/36639
+    wikipedia: http://en.wikipedia.org/wiki/Sherburne_F._Cook
+description: ''
+gutenberg_issued: '2012-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Anthropological Records, Vol. 16, No. 2
+subjects:
+- !lcc 'E011'
+- !lcsh 'San Joaquin Valley (Calif.) -- Population'
+- !lcsh 'Indians of North America -- California -- San Joaquin Valley'
+title: The Aboriginal Population of the San Joaquin Valley, California
+url: http://www.gutenberg.org/ebooks/38770
