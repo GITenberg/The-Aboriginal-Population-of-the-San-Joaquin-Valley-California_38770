@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36639
     wikipedia: http://en.wikipedia.org/wiki/Sherburne_F._Cook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38770#The-Aboriginal-Population-of-the-San-Joaquin-Valley-California
 gutenberg_issued: '2012-02-05'
 gutenberg_type: Text
 identifiers:
